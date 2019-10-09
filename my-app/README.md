@@ -1,5 +1,10 @@
 
-## Available Scripts
+## Fast start:
+
+- Clone repository: `git clone https://github.com/Shynin/assess.git`
+- Install the dependencies: `npm install`
+- Go to the project's folder: `my-app`
+- Run the project: `npm start`
 
 ### Properties:
 
